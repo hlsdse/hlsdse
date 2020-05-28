@@ -24,8 +24,3 @@ Note: the **miscellaneous** directory consists of the csv files and notebooks pr
 The repository tries to get a wide variety of algorithms to generate various design spaces from the tools for analysis and prediction. The results display the design spaces of these algorithms when passing through various tools or various modes of the tools. 
 
 The idea is to be able to provide a set of algorithms which a researcher can play with to improve upon the algorithms to generate better machine learning models to generate more accurate and efficient Design Space Exploration algorithms.
-
-
-### This project was supported by:
-<img src="AWS-Cloud-Credits-for-Research-Program.png"  height="75">  
-<img src="mentor_graphics_logo.png"  height="75"> 
